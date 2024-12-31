@@ -97,12 +97,6 @@ Proyek ini dikembangkan oleh:
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
----
-
 ## 🌟 Kontribusi
 
 Kontribusi sangat dihargai! Silakan buat pull request atau diskusikan di [issues](https://github.com/Hessaajipradana/todolist-pro/issues).
